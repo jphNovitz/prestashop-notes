@@ -3,13 +3,14 @@
 ## Dimensions de l'image  
 
 Quelles dimensions pour une image de fond, début 2019 les cinq résolutions les plus courantes sont:  
-|          |  Largeur | Hauteur   |
-|----------|----------|-----------|
-|  1.      |  1920    | 1080      |
-|  2.      |  1366    |  768      |
-|  3.      |  1536    |  864      |
-|  4.      |  1600    |  900      |
-|  5.      |  1440    |  900      |  
+
+|       |  Largeur   | Hauteur     |
+| ----- | ---------- | ----------- |
+|   1.  |  1920      | 1080        |
+|   2.  |  1366      |  768        |
+|   3.  |  1536      |  864        |
+|   4.  |  1600      |  900        |
+|   5.  |  1440      |  900        |  
   
 ## Emplacement du fichier image
 Les chemins peuvent varier d'un thème à l'autre, qu'il soit plus ou moins personalisé.  Pour le theme classique je met mon fichier:  
